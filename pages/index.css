@@ -2,7 +2,7 @@
 @import url(../vendor/normalize.css);
 
 /* Password-Gen */
-@import url(/styles/password-gen/password-gen.css);
+@import url(../styles/password-gen/password-gen.css);
 @import url(../styles/password-gen/__button/password-gen__button.css);
 @import url(../styles/password-gen/__info/password-gen__info.css);
 @import url(../styles/password-gen/__intro/password-gen__intro.css);
