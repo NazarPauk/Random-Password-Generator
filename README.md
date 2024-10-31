@@ -6,12 +6,8 @@ Generates a secure random password using various characters.
 - [Project Objective](#project-objective)
 - [Source Links](#source-links)
 - [Technologies](#technologies)
-- [Project Structure](#project-structure)
 - [Maket](#maket)
 - [Installation](#installation)
-- [Contributing](#contributing)
-- [Making Contributions](#making-contributions)
-- [Creating a Pull Request](#creating-a-pull-request)
 - [Contact](#contact)
 - [License](#license)
 
